@@ -1,6 +1,6 @@
 # English Version
 
-This project was developed for the subject 'Laboratório de IACD' by the students [André Sousa](https://github.com/anfisou), [David Scarin](https://github.com/davidmscarin), [Paulo Silva](https://github.com/WrekingPanda) and [Pedro Sousa](https://github.com/TottyAmadeus).
+This project was developed for the subject 'Laboratório de IACD' by the students [André Sousa](https://github.com/anfisou), [David Scarin](https://github.com/davidmscarin), [Paulo Silva](https://github.com/WrekingPanda) and [Pedro Sousa](https://github.com/PRCSousa).
 
 The project consists of using Computerized Tomography (CT) images as input data to build one or more learning models capable of classifying new images as i.e. predicting whether there is a malignant nodule on the scan or not.
 
@@ -18,7 +18,7 @@ The final version of the work developed is specified in the following files:
 
 # Versão Portuguesa
 
-Este projeto foi desenvolvido no âmbito da unidade curricular 'Laboratório de IACD' pelos alunos [André Sousa](https://github.com/anfisou), [David Scarin](https://github.com/davidmscarin), [Paulo Silva](https://github.com/WrekingPanda) e [Pedro Sousa](https://github.com/TottyAmadeus).
+Este projeto foi desenvolvido no âmbito da unidade curricular 'Laboratório de IACD' pelos alunos [André Sousa](https://github.com/anfisou), [David Scarin](https://github.com/davidmscarin), [Paulo Silva](https://github.com/WrekingPanda) e [Pedro Sousa](https://github.com/PRCSousa).
 
 O projeto consiste em utilizar imagens de Tomografia Computadorizada (TC) como dados de input para construir um ou mais modelos capazes de classificar novas imagens, ou seja, prever se há ou não um nódulo maligno no exame.
 
